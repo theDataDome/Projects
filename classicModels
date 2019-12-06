@@ -74,5 +74,5 @@ SELECT t1.*,
 	END AS 'Customer Type'
 FROM table1 t1
 
- 	@@@ 4 Operations 1.4 
+ 	-- 4 Operations 1.4 
 
